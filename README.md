@@ -20,7 +20,7 @@ Este repositorio contiene los ejercicios de **pair programming** correspondiente
 14. **🧩 SQL CTE's**: Utiliza Common Table Expressions (CTE's) para mejorar la estructura y legibilidad de tus consultas SQL.
 15. **🎯 SQL Extra**: Desafíos adicionales para poner a prueba y fortalecer tus habilidades en SQL.
 
-## 🗂️ Estructura del Repositorio
+## 🗂️ Estructura del repositorio
 
 - 📁 Cada archivo y carpeta corresponde a un tema específico y contiene los ejercicios diseñados para trabajar en pareja.
 - 📄 Los ejercicios están organizados en archivos `.ipynb` y carpetas con ejemplos, instrucciones y posibles soluciones.
